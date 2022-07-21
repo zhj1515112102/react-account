@@ -16,9 +16,7 @@ function Money() {
       <TagsSection/>
       <NoteSection/>
       <CategorySection/>
-      <NumberPadSection>
-
-      </NumberPadSection>
+      <NumberPadSection/>
     </MyLayout>
   );
 }
